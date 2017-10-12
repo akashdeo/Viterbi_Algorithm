@@ -1,0 +1,11 @@
+Name: Akash Deo
+
+Language Used: JAVA
+
+How to Compile: javac Viterbi.java
+
+How to Run: java Viterbi.java
+
+Step 1 :  Enter the sequence
+
+Output: Probability of that sequence followed by the most probable hidden state combination. The Probability matrix is also generated for your reference.
